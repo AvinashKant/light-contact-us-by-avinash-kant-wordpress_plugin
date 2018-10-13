@@ -1,0 +1,4 @@
+<?php 
+
+// code for forever
+ ?>
